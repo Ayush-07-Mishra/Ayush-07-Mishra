@@ -1,10 +1,11 @@
 
  <h1 align="center"><b>Hello 👋, I am Ayush Mishra</b></h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-07-Mishra&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-- 🔭 I’m currently working on creating web applications with Next.js. 🚀
+- I am doing projects on data science, doing competitive coding, and solving LeetCode problems. 🚀
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushmishra312004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ayush-mishra](https://www.linkedin.com/in/ayush-mishra07/)) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Ayush_Mishra07/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushmishra312004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ayush-mishra07/)) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Ayush_Mishra07/)
 
 
 ##  Tech Stack:
